@@ -9,3 +9,4 @@
 *.log
 /tests/results/
 __pycache__/
+.DS_Store

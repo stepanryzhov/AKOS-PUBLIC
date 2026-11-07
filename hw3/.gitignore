@@ -1,0 +1,12 @@
+/auction_named
+/auction_unnamed
+/auctioneer
+/participant
+/lot
+/auctioneer_mq
+/participant_mq
+/lot_mq
+*.log
+/tests/results/
+__pycache__/
+.DS_Store

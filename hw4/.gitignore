@@ -1,0 +1,8 @@
+/auctioneer
+/participant
+/lot
+/observer
+*.log
+/tests/results/
+__pycache__/
+.DS_Store
